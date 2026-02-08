@@ -4,16 +4,20 @@ This project is divided into 4 scripts
 
                                     THE SCRIPTS INCLUDE:
 
-vault_setup
+vault_setup:
+
    This creates the secure_vault directory and initializes the files in it
 
-vault_permissions
+vault_permissions:
+
    Displays and manages file permissions
 
-vault_ops
+vault_ops:
+
    A menu used to add and update secrets and perform log actions
 
-vault_monitor
+vault_monitor:
+
    Monitors vault files and permissions, detects risks, and generates a report
 
                                      NOTE:
