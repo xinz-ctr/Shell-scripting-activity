@@ -1,0 +1,21 @@
+File: keys.txt
+Size: 38 bytes
+Last Modified: 2026-02-08 08:27:19.168875284 -0800
+Permissions: 777
+SECURITY RISK DETECTED
+----------------------------
+File: logs.txt
+Size: 38 bytes
+Last Modified: 2026-02-08 08:27:19.168875284 -0800
+Permissions: 644
+----------------------------
+File: secrets.txt
+Size: 41 bytes
+Last Modified: 2026-02-08 08:27:19.168875284 -0800
+Permissions: 640
+----------------------------
+File: vault_report.txt
+Size: 407 bytes
+Last Modified: 2026-02-08 08:30:21.714283593 -0800
+Permissions: 644
+----------------------------
