@@ -1,6 +1,7 @@
                                     OVERVIEW
 This project uses shell-scripting to build a secure vault system. It contains directory creation, file permissions and system monitoring
 This project is divided into 4 scripts
+
                                     THE SCRIPTS INCLUDE:
 vault_setup
    This creates the secure_vault directory and initializes the files in it
