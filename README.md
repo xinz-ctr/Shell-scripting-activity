@@ -22,4 +22,5 @@ vault_monitor:
 
                                      NOTE:
 The keys file is never displayed for security reasons
+
 The final report is saved in the vault_report file inside secure_vault
